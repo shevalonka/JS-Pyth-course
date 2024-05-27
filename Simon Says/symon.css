@@ -42,3 +42,7 @@ body {
     cursor: pointer;
     font-size: 20px;
 }
+
+#repeat-click{
+    display: none;
+}
