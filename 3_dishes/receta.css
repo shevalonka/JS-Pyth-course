@@ -1,0 +1,43 @@
+* {
+    margin: 5;
+    padding: 5;
+}
+
+h2 {
+    color: rgb(85, 74, 52);
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+
+  }
+  .receta{
+    color: olive;
+    text-align: center;
+    background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613464981_27-p-fon-dlya-prezentatsii-v-narodnom-stile-38.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 110px;
+    border-radius: 80px;
+    border-radius: 90%;
+    text-shadow: 40px;
+    font-size: 26px; /* Розмір тексту */
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
+    padding: 7px; 
+  }
+  h3, dl {
+    text-align: center;
+    padding: 10px;
+  } 
+
+  body {
+    font-family:  URW Gothic L;
+    background-color: #d6cdcd;
+   
+}
+.imagen
+{
+    text-align: center;
+    /* opacity: 0.5; */
+}

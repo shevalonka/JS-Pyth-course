@@ -1,0 +1,97 @@
+/* html {
+    font-family: ;
+  } */
+
+  .img{
+    display: flex;
+    height: 250px;
+    width: 2700px;
+    border-radius: 50px;
+  }
+
+  img {
+    border-radius: 20px;
+  }
+
+  body {
+    font-family: "Montserrat Alternates", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  .cv{
+    border: 1px solid pink;
+}
+  h1 {
+    color: rgb(211, 94, 162);
+    margin-bottom: 0.25em;
+    text-shadow: 40px;
+    font-size: 38px; 
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  h2 {
+    color: rgb(211, 94, 162);
+    font-size: 1em;
+    margin-top: 0;
+    margin-bottom: 1em;
+  }
+  
+  h3 {
+    color: rgb(211, 94, 162);
+  }
+  
+  a {
+    color: blue
+    ;
+  }
+  
+  section {
+    margin-bottom: 3em;
+    position: relative;
+  }
+  
+  .cv {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .contacts {
+    margin-bottom: 2em;
+  }
+  
+  
+  .contact {
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+  }
+
+  .contact__type {
+    min-width: 90px;
+  }
+  
+  .experience {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-bottom: 2em;
+  }
+  
+  .experience__date {
+    min-width: 185px;
+    margin-bottom: 1em;
+  }
+  
+  .experience__name {
+    font-weight: bold;
+  } 
+ 
+    .experience {
+      display: block;
+    }
+  
+.description p {
+    padding: 1em;
+    
+}
+  
