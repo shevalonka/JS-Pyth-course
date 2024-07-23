@@ -1,0 +1,14 @@
+{% extends "index.njk" %}
+
+{%block title%}
+    SupSocApp
+{%endblock title%}
+
+{%block header%}
+    This is SUPER SOCIAL NETWORK! <br> <br> {{greet}}, WELCOME!
+
+{%endblock header%} 
+
+{%block body%}
+    <form action="/logout"> <button type="submit" class="logout"> Log out </button> </form>
+{%endblock%}
