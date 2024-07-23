@@ -1,3 +1,0 @@
-CREATE TABLE pasta(
-    id INTEGER PRIMARY KEY,
-    body TEXT);
